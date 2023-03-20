@@ -1,8 +1,5 @@
 # Quantum-Microscopy-of-Cells-at-the-Heisenberg-Limit
 arxiv.org/abs/2303.04948
-Authors: Zhe He, Yide Zhang, Xin Tong, Lei Li, and Lihong V. Wang*
-
-Date: 01/12/2023
 
 Software requirements: Matlab R2021a (https://www.mathworks.com/products/matlab.html)
 
